@@ -4,7 +4,6 @@
   "semi": true,
   "bracketSpacing": true,
   "plugins": ["prettier-plugin-css-order"],
-  "cssDeclarationSorter": {
-    "order": "alphabetical"
-  }
+  "cssDeclarationSorterOrder": "alphabetical",
+  "cssDeclarationSorterKeepOverrides": true
 }
